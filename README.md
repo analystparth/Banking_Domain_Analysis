@@ -14,35 +14,35 @@ Analyze the dataset and provide them insights about the customers' needs and spe
 
 **Key Insights**
 
-1.The three top spending areas include paying bills, buying groceries, and electronics.
+1. The three top spending areas include paying bills, buying groceries, and electronics.
 
-2.Mumbai is the city where customers use the credit card the most with Delhi NCR and Bangalore are the next two big cities.
+2. Mumbai is the city where customers use the credit card the most with Delhi NCR and Bangalore are the next two big cities.
 
-3.Credit card is mostly used as a payment type
+3. Credit card is mostly used as a payment type
 
-4.Salaried IT professionals have the most Average income Utilization %, salaried other employees and freelancers come next.
+4. Salaried IT professionals have the most Average income Utilization %, salaried other employees and freelancers come next.
 
-5.25-34 and 35-45 These two age groups people have the most spending habits as their average income utilization % is more than the rest.
+5. 25-34 and 35-45 These two age groups people have the most spending habits as their average income utilization % is more than the rest.
 
-6.Married persons spend the most as compared to the single
+6. Married persons spend the most as compared to the single
 
-7.Males are using the credit cards more than the female
+7. Males are using the credit cards more than the female
 
 **Recommendations**
 
-1.For the age group of 25-34 and 35-45 credit cards with low or no annual fees are recommended as they are the most spendthrifts and the use of credit cards is more among them.
+1. For the age group of 25-34 and 35-45 credit cards with low or no annual fees are recommended as they are the most spendthrifts and the use of credit cards is more among them.
 
-2.Bonus points add up and cashback are the two main features the credit must have. 
+2. Bonus points add up and cashback are the two main features the credit must have. 
 
-3.As Bills, groceries and electronics are the best utilization points through credit cards cashback is required for that, and retail chains must have special promotions and discounts for the cardholders
+3. As Bills, groceries and electronics are the best utilization points through credit cards cashback is required for that, and retail chains must have special promotions and discounts for the cardholders
 
-4.It professionals and Freelancers are the two key stakeholders for credit cards so buying IT-related products should provide offers and free lounge, offers on flight tickets are some important key points to take care.
+4. IT Professionals and Freelancers are the two key stakeholders for credit cards so buying IT-related products should provide offers and free lounge, offers on flight tickets are some important key points to take care of.
 
-5.Advance fraud detection, transaction alert messages, and customer support are the key features required a first and priority basis
+5. Advance fraud detection, transaction alert messages, and customer support are the key features required a first and priority basis
 
-6.Integration of UPI with credit card is a new feature that must be added with the new credit card for easy transactions.
+6. Integration of UPI with credit cards is a new feature that must be added with the new credit card for easy transactions.
 
-**power BI fundamentals**
+**Power BI Fundamentals**
 
 1. data cleaning and schema modeling
    
@@ -50,18 +50,18 @@ Analyze the dataset and provide them insights about the customers' needs and spe
    
 3. created pie charts, cards, field parameters, table matrix, line and clustered columns chart.
 
-**soft skills**
+**Soft Skills**
 
 1. domain knowledge in hospitality
    
-2. understanding stakeholders requirement from mock up dashboard
+2. understanding stakeholders' requirement from mock-up dashboard
    
 **Repository Contents**
 
 ```project pdf: Contains dashboard pdf files
-insights: contians key insigths from dashboard
-recommendation: contains key recommendations from dashboard
-data modelling : schema modeling between fact and dimension table
+insights: contains key insigths from dashboard
+recommendation: contains key recommendations from the dashboard
+data modeling: schema modeling between fact and dimension table
 ```
 
 
