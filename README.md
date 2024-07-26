@@ -13,6 +13,7 @@ Mitron Bank wants to launch a new credit card but they are skeptical about launc
 Analyze the dataset and provide them insights about the customers' needs and spending ability, this will help Mitron Bank launch the tailor-made credit card for the target customers according to their age and spending habits.
 
 **Key Insights**
+
 1.The three top spending areas include paying bills, buying groceries, and electronics.
 2.Mumbai is the city where customers use the credit card the most with Delhi NCR and Bangalore are the next two big cities.
 3.Credit card is mostly used as a payment type
@@ -22,6 +23,7 @@ Analyze the dataset and provide them insights about the customers' needs and spe
 7.Males are using the credit cards more than the female
 
 **Recommendations**
+
 1.For the age group of 25-34 and 35-45 credit cards with low or no annual fees are recommended as they are the most spendthrifts and the use of credit cards is more among them.
 2.Bonus points add up and cashback are the two main features the credit must have. 
 3.As Bills, groceries and electronics are the best utilization points through credit cards cashback is required for that, and retail chains must have special promotions and discounts for the cardholders
@@ -30,15 +32,18 @@ Analyze the dataset and provide them insights about the customers' needs and spe
 6.Integration of UPI with credit card is a new feature that must be added with the new credit card for easy transactions.
 
 **power BI fundamentals**
+
 1. data cleaning and schema modeling
 2. learned about page navigation, tooltip, conditional formatting
 3. created pie charts, cards, field parameters, table matrix, line and clustered columns chart.
 
 **soft skills**
+
 1. domain knowledge in hospitality
 2. understanding stakeholders requirement from mock up dashboard
    
 **Repository Contents**
+
 ```project pdf: Contains dashboard pdf files
 insights: contians key insigths from dashboard
 recommendation: contains key recommendations from dashboard
