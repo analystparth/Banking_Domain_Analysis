@@ -1,10 +1,11 @@
 # Credit_Card_Analysis
-Mitron Bank - Launch of New Credit Card
+Mitron Bank - Provide Insights to the Product Strategy Team in The Banking Domain
 
 **Live Dashboard** - (https://app.powerbi.com/links/Msj7r2tNMJ?ctid=4bd4e0ac-f8ac-4496-adfe-67fe10e7c467&pbi_source=linkShare&bookmarkGuid=00b56bea-2670-4f53-8fa4-51c2a182ed0e)
 
 **Overview**
-This repository contains the project files for the Mitron Bank Credit Card Analytics project. Mitron Bank wants to launch a new line of credit cards in the Indian Market, so they want to know the target audience for their launch.  This project addresses those challenges by incorporating data-driven strategies and business intelligence.
+This repository contains the project files for the Mitron Bank Credit Card Analytics project. Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market. 
+Mitron Bank wants to launch a new line of credit cards in the Indian Market, so they want to know the target audience for their launch.  This project addresses those challenges by incorporating data-driven strategies and business intelligence.
 
 **Problem Statement**
 Mitron Bank wants to launch a new credit card but they are skeptical about launching the credit card. Hence they provided a dataset of 4000 unique customers including their spending habits in 5 cities. 
