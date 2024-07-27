@@ -2,8 +2,11 @@
 Mitron Bank - Provide Insights to the Product Strategy Team in The Banking Domain
 
 **Live Dashboard** - (https://app.powerbi.com/view?r=eyJrIjoiMDk1OTRjOWEtNDU0NC00ZGI4LWIwMTAtZmJmMTMxYzE1MmU0IiwidCI6IjRiZDRlMGFjLWY4YWMtNDQ5Ni1hZGZlLTY3ZmUxMGU3YzQ2NyJ9&pageName=a695c236e2eb761c048b)
+
 **Live Video Link** - (https://www.youtube.com/watch?v=1Qp7igEnxyc)
+
 **Overview**
+
 This repository contains the project files for the Mitron Bank Credit Card Analytics project. Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market. 
 Mitron Bank wants to launch a new line of credit cards in the Indian Market, so they want to know the target audience for their launch.  This project addresses those challenges by incorporating data-driven strategies and business intelligence.
 
